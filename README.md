@@ -1,5 +1,7 @@
-Open source community enthusiasts. And working on distributed and automated driving 🔭
-- 😄 Blog: [Wuhen-Li](https://liwuhen.cn)
+Open source community enthusiasts. And working on high performance computing(HPC) and automated driving(AD) 🔭
+- 🌱 Skill points being added: distributed storage
+- 🏗 The ideal of life is for ideal life.
+- 👉 Blog: [Wuhen-Li](https://liwuhen.cn)
 - 📫 Email: [Email](mailto:liwuhen5788@gmail.com)
 <!--
 **liwuhen/liwuhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

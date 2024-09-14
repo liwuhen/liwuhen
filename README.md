@@ -1,7 +1,8 @@
 Open source community enthusiasts. And working on high performance computing(HPC) and automated driving(AD) 🔭
 - 🌱 Skill points being added: distributed storage
 - 🏗 The ideal of life is for ideal life.
-- 👉 Blog: [Wuhen-Li](https://liwuhen.cn)
+- 👉 Websites: [Wuhen-Li](https://liwuhen.cn)
+- 👉 Blog：[Zhihu](https://www.zhihu.com/people/xiao-fang-fang-2-75)
 - 📫 Email: [Email](mailto:liwuhen5788@gmail.com)
 <!--
 **liwuhen/liwuhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

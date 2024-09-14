@@ -1,4 +1,4 @@
-## Hi there 👋
+## Open source community enthusiasts. And working on distributed and automated driving 🔭
 
 <!--
 **liwuhen/liwuhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

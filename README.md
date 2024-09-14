@@ -1,6 +1,6 @@
 Open source community enthusiasts. And working on distributed and automated driving 🔭
-- 😄 Blog: [Wuhen-Li](www.liwuhen.cn)
-- 📫 Email: liwuhen5788@gmail.com
+- 😄 Blog: [Wuhen-Li](https://liwuhen.cn)
+- 📫 Email: [Email](mailto:liwuhen5788@gmail.com)
 <!--
 **liwuhen/liwuhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
